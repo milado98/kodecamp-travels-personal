@@ -1,0 +1,83 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Open Sans';
+}
+
+#agents-section {
+    background: #fafafa;
+}
+
+.contact-info-section {
+    width: 40%;
+    margin-block: 50px;
+}
+
+.agents-info {
+    margin-block: 50px;
+    /* width: 80%; */
+/* } */
+
+/* h5 {
+    font-size: 32px;
+    font-weight: 700;
+
+}
+
+.hero-info{
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 70px;    
+}
+
+.contact-btn {
+    background: #174AAd;
+    border-radius: 8px;
+    padding: 12px 8px;
+    width: 282px;
+    height: 56px;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.image-container1, .image-container2, .image-container3, .image-container4 {
+    background: url(../images/agent1.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 160px;
+    height: 160px;
+    margin: 0 auto;
+}
+
+.agents-bio {
+    margin-left: -40px;
+}
+
+.name-text {
+    font-size: 20px;
+    font-weight: 700;
+    margin-left: 20px;
+}
+
+.role-text {
+    font-size: 16px;
+    font-weight: 400;
+    margin-left: 20px;
+}
+
+.testimonials-header h4{
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.testimonials-header p{
+    font-size: 18px;
+    font-weight: 400;
+}  */
